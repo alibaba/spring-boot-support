@@ -13,7 +13,7 @@
     <groupId>com.alibaba.boot</groupId>
     <artifactId>spring-boot-web-support</artifactId>
     <version>${revision}</version>
-    <name>Alibaba :: Spring Boot :: Web</name>
+    <name>Alibaba :: Spring Boot Support :: Web</name>
     <packaging>jar</packaging>
 
     <properties>
