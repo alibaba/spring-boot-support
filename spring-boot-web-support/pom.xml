@@ -17,8 +17,6 @@
     <packaging>jar</packaging>
 
     <properties>
-        <!-- Servlet -->
-        <servlet-api.version>3.1.0</servlet-api.version>
         <!-- Spring Web MVC Support -->
         <spring-webmvc-support.version>1.0.0.RELEASE</spring-webmvc-support.version>
     </properties>
